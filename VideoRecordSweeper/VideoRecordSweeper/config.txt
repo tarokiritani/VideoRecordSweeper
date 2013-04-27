@@ -1,0 +1,10 @@
+This is the configuration file for VideoRecordSweeper.exe.
+----edit below----
+width = 512;
+height = 512;
+nrOfPicturesToGrab = 1000;
+frameRate = 500.0;
+timeout = 4;
+iterationNum = 5;
+folderName = D:\camera\; # this folder needs to exist.
+filePrefix = test;

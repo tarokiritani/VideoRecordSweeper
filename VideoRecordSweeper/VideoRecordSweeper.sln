@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VideoRecordSweeper", "VideoRecordSweeper\VideoRecordSweeper.vcxproj", "{DDE300E3-5D25-4218-9F87-78AD774711D3}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Setup1", "Setup1\Setup1.isproj", "{AD65FFD7-3B8B-455A-BBF6-A6F5C3C8CA7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Win32 = CD_ROM|Win32
+		CD_ROM|x64 = CD_ROM|x64
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		DVD-5|Win32 = DVD-5|Win32
+		DVD-5|x64 = DVD-5|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		SingleImage|Win32 = SingleImage|Win32
+		SingleImage|x64 = SingleImage|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDE300E3-5D25-4218-9F87-78AD774711D3}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{DDE300E3-5D25-4218-9F87-78AD774711D3}.CD_ROM|Win32.Build.0 = Release|Win32
+		{DDE300E3-5D25-4218-9F87-78AD774711D3}.CD_ROM|x64.ActiveCfg = Release|x64
+		{DDE300E3-5D25-4218-9F87-78AD774711D3}.CD_ROM|x64.Build.0 = Release|x64
+		{DDE300E3-5D25-4218-9F87-78AD774711D3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DDE300E3-5D25-4218-9F87-78AD774711D3}.Debug|Win32.Build.0 = Debug|Win32
+		{DDE300E3-5D25-4218-9F87-78AD774711D3}.Debug|x64.ActiveCfg = Debug|x64
+		{DDE300E3-5D25-4218-9F87-78AD774711D3}.Debug|x64.Build.0 = Debug|x64
+		{DDE300E3-5D25-4218-9F87-78AD774711D3}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{DDE300E3-5D25-4218-9F87-78AD774711D3}.DVD-5|Win32.Build.0 = Debug|Win32
+		{DDE300E3-5D25-4218-9F87-78AD774711D3}.DVD-5|x64.ActiveCfg = Debug|x64
+		{DDE300E3-5D25-4218-9F87-78AD774711D3}.DVD-5|x64.Build.0 = Debug|x64
+		{DDE300E3-5D25-4218-9F87-78AD774711D3}.Release|Win32.ActiveCfg = Release|x64
+		{DDE300E3-5D25-4218-9F87-78AD774711D3}.Release|Win32.Build.0 = Release|x64
+		{DDE300E3-5D25-4218-9F87-78AD774711D3}.Release|x64.ActiveCfg = Release|x64
+		{DDE300E3-5D25-4218-9F87-78AD774711D3}.Release|x64.Build.0 = Release|x64
+		{DDE300E3-5D25-4218-9F87-78AD774711D3}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{DDE300E3-5D25-4218-9F87-78AD774711D3}.SingleImage|Win32.Build.0 = Release|Win32
+		{DDE300E3-5D25-4218-9F87-78AD774711D3}.SingleImage|x64.ActiveCfg = Release|x64
+		{DDE300E3-5D25-4218-9F87-78AD774711D3}.SingleImage|x64.Build.0 = Release|x64
+		{AD65FFD7-3B8B-455A-BBF6-A6F5C3C8CA7C}.CD_ROM|Win32.ActiveCfg = CD_ROM
+		{AD65FFD7-3B8B-455A-BBF6-A6F5C3C8CA7C}.CD_ROM|Win32.Build.0 = CD_ROM
+		{AD65FFD7-3B8B-455A-BBF6-A6F5C3C8CA7C}.CD_ROM|x64.ActiveCfg = CD_ROM
+		{AD65FFD7-3B8B-455A-BBF6-A6F5C3C8CA7C}.CD_ROM|x64.Build.0 = CD_ROM
+		{AD65FFD7-3B8B-455A-BBF6-A6F5C3C8CA7C}.Debug|Win32.ActiveCfg = DVD-5
+		{AD65FFD7-3B8B-455A-BBF6-A6F5C3C8CA7C}.Debug|Win32.Build.0 = DVD-5
+		{AD65FFD7-3B8B-455A-BBF6-A6F5C3C8CA7C}.Debug|x64.ActiveCfg = DVD-5
+		{AD65FFD7-3B8B-455A-BBF6-A6F5C3C8CA7C}.Debug|x64.Build.0 = DVD-5
+		{AD65FFD7-3B8B-455A-BBF6-A6F5C3C8CA7C}.DVD-5|Win32.ActiveCfg = DVD-5
+		{AD65FFD7-3B8B-455A-BBF6-A6F5C3C8CA7C}.DVD-5|Win32.Build.0 = DVD-5
+		{AD65FFD7-3B8B-455A-BBF6-A6F5C3C8CA7C}.DVD-5|x64.ActiveCfg = DVD-5
+		{AD65FFD7-3B8B-455A-BBF6-A6F5C3C8CA7C}.DVD-5|x64.Build.0 = DVD-5
+		{AD65FFD7-3B8B-455A-BBF6-A6F5C3C8CA7C}.Release|Win32.ActiveCfg = SingleImage
+		{AD65FFD7-3B8B-455A-BBF6-A6F5C3C8CA7C}.Release|Win32.Build.0 = SingleImage
+		{AD65FFD7-3B8B-455A-BBF6-A6F5C3C8CA7C}.Release|x64.ActiveCfg = CD_ROM
+		{AD65FFD7-3B8B-455A-BBF6-A6F5C3C8CA7C}.Release|x64.Build.0 = CD_ROM
+		{AD65FFD7-3B8B-455A-BBF6-A6F5C3C8CA7C}.SingleImage|Win32.ActiveCfg = SingleImage
+		{AD65FFD7-3B8B-455A-BBF6-A6F5C3C8CA7C}.SingleImage|Win32.Build.0 = SingleImage
+		{AD65FFD7-3B8B-455A-BBF6-A6F5C3C8CA7C}.SingleImage|x64.ActiveCfg = SingleImage
+		{AD65FFD7-3B8B-455A-BBF6-A6F5C3C8CA7C}.SingleImage|x64.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
