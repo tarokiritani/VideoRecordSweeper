@@ -1,6 +1,6 @@
 videoRecordSweeper
 ==================
-videoRecordSweeper.exe repetitively records movies from microEnableIV frame grabber.
+videoRecordSweeper.exe repetitively records movies from the microEnableIV frame grabber.
 
 Hardware
 ========
